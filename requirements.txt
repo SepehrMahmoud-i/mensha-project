@@ -1,0 +1,16 @@
+# --- Core RAG & Database ---
+chromadb
+sentence-transformers
+requests
+numpy
+
+# --- Data Scraping ---
+scrapy
+selenium
+beautifulsoup4
+
+# --- LLM Integration (OpenAI client is used for many APIs) ---
+openai 
+
+# --- Optional but helpful for scripts ---
+tqdm
